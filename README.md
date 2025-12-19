@@ -2,8 +2,6 @@
 
 Ein einfaches, aber faszinierendes Processing-Skript, das ein abstraktes Stilleben aus geometrischen Formen (Kreise, Rechtecke, Dreiecke) erzeugt. Das Besondere: Du kannst live die Farbpalette reduzieren und wieder verfeinern – ein spielerischer Weg, um den Effekt von Farbquantisierung und Farbkomplexität zu erkunden.
 
-![Beispiel-Bild](examples/example1.png)  
-*Beispiel eines generierten Stillebens mit ca. 20 Formen und 12 Farben*
 
 ## Features
 
@@ -37,8 +35,4 @@ Ein einfaches, aber faszinierendes Processing-Skript, das ein abstraktes Stilleb
 4. Starte das Sketch mit **Run** (Strg+R / Cmd+R).
 
 ## Code-Varianten
-
-### 1. Original-Version (minimalistisch, exakt wie im Chat geteilt)
-
-```java
-// Den Code aus deiner hochgeladenen Datei "stillleben.pde" hier einfügen
+Es gibt eine Überarbeitung
